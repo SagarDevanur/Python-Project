@@ -1,7 +1,3 @@
-# Name: SAGAR DEVANUR     Student ID: s4055093
-
-# I have attended and completed upto DI part of the assignment.
-# As per my knowledge all the conditions and requirements mentioned in assignment is met.
 
 # I have used sys library file
 
@@ -312,7 +308,7 @@ if __name__ == "__main__":
 # I tested the program to confirm that it performed as expected and has appropriate validation checks throughout the program.
 
 # Challenges Faced:
-# Validating and modifiying the function to get the exact expected outcomes from input txt files posed me some difficulty, and structuring the member information to display clearly was also a challenge.
+# Validating and modifiying the function to get the exact expected outcomes from input txt files posed me some difficulty and structuring the member information to display clearly was also a challenge.
 # Managing errors across the program and ensuring detailed testing required extra attention and effort.
 
 
